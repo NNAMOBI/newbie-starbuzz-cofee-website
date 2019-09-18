@@ -1,0 +1,43 @@
+body {
+    background: #000000;
+    color: white;
+}
+#imagez {
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    z-index: -1;
+
+}
+
+.formula1 h1 {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    
+    
+}
+
+.formula1 {
+    position: relative;
+    left: 150px;
+    bottom: 50px;
+}
+
+p {
+    position: relative;
+    top: 300px;
+    font-size: 200%;
+    z-index: 1;
+    font-weight: bold;
+}
+
+#boximage {
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    border: 1px none red;
+    box-shadow: rgba(0, 0, 0, 0.6);
+    padding: 0px;
+
+}
